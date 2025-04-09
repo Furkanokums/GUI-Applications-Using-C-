@@ -1,0 +1,16 @@
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\bin\Debug\sqlbaglanti.exe.config
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\bin\Debug\sqlbaglanti.exe
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\bin\Debug\sqlbaglanti.pdb
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.Properties.Resources.resources
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.sqlbaglanti.resources
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.csproj.GenerateResource.cache
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.exe
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.pdb
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.formKasiyer.resources
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.frmGrdview.resources
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\bin\Debug\sqlbaglanti.exe.manifest
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\bin\Debug\sqlbaglanti.application
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.exe.manifest
+C:\Users\FURKAN\Desktop\PikselA\Dersler\Yeni_1.hafta\sqlbaglanti\sqlbaglanti\obj\Debug\sqlbaglanti.application
